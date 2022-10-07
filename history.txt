@@ -1,0 +1,19 @@
+discover
+discover -f
+discover -d
+discover -f
+d
+discover -d
+discover -f
+discover 
+discover -
+discover ~
+D
+discover /home/nirmala/2021101126_Assignment-3/cd
+discover 
+-
+-discover
+discover ~
+echo hello
+cd userprompt.h 
+'/home/nirmala/2021101126_Assignment-3/shell.c'
